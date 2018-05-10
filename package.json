@@ -1,0 +1,19 @@
+{
+  "name": "crypto_tax_calculator_parser_service",
+  "version": "1.0.0",
+  "engines": {
+    "node": "9.4.0"
+  },
+  "description": "Crypto Capital Gains Calculator Parser Service",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv": "^2.0.0",
+    "iconv-lite": "^0.4.19",
+    "moment": "^2.20.1"
+  }
+}
